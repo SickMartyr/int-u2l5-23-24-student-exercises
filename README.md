@@ -1,4 +1,4 @@
-# Lesson 2.5: Stylesheets & Documentation
++# Lesson 2.5: Stylesheets & Documentation
 
 ## 🎯 Objectives
 Coders will:
